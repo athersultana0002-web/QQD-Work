@@ -4,7 +4,7 @@
 ## What is Export-Import?
 The process of selling goods to foreign markets (Export) and purchasing goods from foreign markets (Import) to trade globally, expand business reach, and generate foreign exchange revenue.
 
-![alt text](image.png)
+<img width="624" height="416" alt="image" src="https://github.com/user-attachments/assets/c6c580cb-2703-4151-b271-7df6a26a6680" />
 
 ---
 
@@ -16,7 +16,7 @@ The process of selling goods to foreign markets (Export) and purchasing goods fr
 5.  **GST Registration:** Mandatory for GST-compliant transactions.
 6.  **Other Product-Specific Licenses:** FSSAI, APEDA, Drug License, etc.
 
-![alt text](image-1.png)
+<img width="624" height="416" alt="image" src="https://github.com/user-attachments/assets/585d324f-3df5-411d-a915-fc9d742a6d20" />
 
 ---
 
@@ -31,7 +31,7 @@ The process of selling goods to foreign markets (Export) and purchasing goods fr
 | 5 | **Shipping & Customs** | Logistics & customs clearance (Shipping Bill / Bill of Entry). |
 | 6 | **Payment** | Secure payment via LC, TT, or escrow. |
 
-![alt text](image-2.png)
+<img width="624" height="332" alt="image" src="https://github.com/user-attachments/assets/32d83ae6-66f0-4ed4-bdb0-7ad4156fcdcd" />
 
 ---
 
@@ -41,7 +41,7 @@ The process of selling goods to foreign markets (Export) and purchasing goods fr
 *   **Bill of Lading:** Shipping contract & receipt for goods in transit.
 *   **Certificate of Origin:** Proves the country where goods were manufactured.
 
-![alt text](image-3.png)
+<img width="624" height="304" alt="image" src="https://github.com/user-attachments/assets/61a000bb-cb7c-4408-bc77-a0da91cfc1d7" />
 
 ---
 
@@ -50,7 +50,7 @@ The process of selling goods to foreign markets (Export) and purchasing goods fr
 *   **Letter of Credit / Bank Guarantee:** Bank assures payment on agreed terms.
 *   **Documents Against Payment:** Documents released only after payment via bank.
 *   **Open Account:** Buyer pays after receiving goods (Highest risk for seller).
-![alt text](image-4.png)
+<img width="624" height="319" alt="image" src="https://github.com/user-attachments/assets/83d54448-7dd7-450d-aad6-68cabbd691fb" />
 
 
 ---
